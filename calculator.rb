@@ -1,2 +1,2 @@
-first_number = "first number"
-second_number = "second number"
+first_number = 1
+second_number = 2
